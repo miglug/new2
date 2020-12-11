@@ -5,6 +5,7 @@ def my_superfunction():
 
 def main():
     my_superfunction()
+    print("we learn branches")
 
 
 if __name__ == '__main__':
